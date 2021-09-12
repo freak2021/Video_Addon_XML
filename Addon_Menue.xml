@@ -1,13 +1,13 @@
 
 	<dir>
     <title>[B][COLORnavajowhite]Filmy[/COLOR][/B]</title>
-    <link></link>
+    <link>https://raw.githubusercontent.com/freak2021/Filmy_Menue_XML/main/Filmy_Menue_XML.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/freak2021/Filmy_Menue_XML/main/Filmy_Menue_XML.xml</thumbnail>
     </dir>
 	
 	<dir>
     <title>[B][COLORnavajowhite]Seriale[/COLOR][/B]</title>
-    <link></link>
+    <link>https://raw.githubusercontent.com/freak2021/Seriale_Menue_XML/main/Seriale_Menue_XML.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/freak2021/Seriale_Menue_XML/main/Seriale_Menue_XML.xml</thumbnail>
     </dir>
 	
